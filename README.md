@@ -1,7 +1,7 @@
 GameOfLife
 ==========
 
-Game Of Life
+Game Of Life : http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
 Depedency : Maven 3
 
